@@ -1,0 +1,47 @@
+.card-body {
+    color: #fff;
+}
+
+
+/* Exemplo de estilos adicionais */
+
+.card-body {
+    position: relative;
+}
+
+.points {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* style.css */
+.score {
+    font-size: 2rem; /* Aumenta o tamanho da fonte */
+    font-weight: bold; /* Torna o texto mais negrito */
+    color: #ffffff; /* Ajusta a cor do texto para branco */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); /* Adiciona uma sombra ao texto para melhor contraste */
+}
+
+/* style.css */
+
+.flag-container {
+    position: relative;
+}
+
+.flag-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.flag-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+}
+
+.btn-warning {
+    margin-top: 10px;
+}
